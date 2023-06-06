@@ -12,3 +12,4 @@
 ![Ninfomaniac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninfomaniac&show_icons=true&theme=radical) 
 
 ![Ninfomaniac's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninfomaniac&theme=blue-green)
+! [Snake animation](https://github.com/Ninfomaniac)
